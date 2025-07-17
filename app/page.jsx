@@ -19,7 +19,7 @@ export default function LandingPage() {
 
           <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed">
             Track shared expenses, split bills effortlessly, and settle up
-            quickly. Never worry about who owes who again.
+            quickly.
           </p>
 
           <div className="flex flex-col items-center gap-4 sm:flex-row justify-center">
@@ -166,7 +166,7 @@ export default function LandingPage() {
 
       {/* ───── Footer ───── */}
       <footer className="border-t bg-stone-100 font-bold py-12 text-center text-sm text-muted-foreground">
-       Copyright © {new Date().getFullYear()} BTY. All rights reserved.
+       Copyright © {new Date().getFullYear()} BTY. Made with ❤️.
       </footer>
     </div>
   );
